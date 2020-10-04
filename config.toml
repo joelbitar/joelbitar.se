@@ -1,0 +1,4 @@
+theme = "ananke"
+baseURL = "http://joelbitar.se"
+languageCode = "sv-se"
+title = "joelbitar.se"
